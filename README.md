@@ -1,5 +1,5 @@
 # js-clock-project
-this is a clock project built with JS HTML and CSS
+this is a fully functioning clock project built with JS HTML and CSS
 
 # Features
 - keeps track of the current time in eastern time zone
