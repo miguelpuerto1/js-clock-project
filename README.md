@@ -1,2 +1,11 @@
 # js-clock-project
-simple clock built in JavaScript
+this is a clock project built with JS HTML and CSS
+
+# Features
+- keeps track of the current time in eastern time zone
+
+# Set Up Instructions
+- No set up required
+
+# Notes 
+- this was a fun little side project 
