@@ -9,3 +9,5 @@ this is a fully functioning clock project built with JS HTML and CSS
 
 # Notes 
 - this was a fun little side project 
+
+https://lambent-naiad-34e6c6.netlify.app
