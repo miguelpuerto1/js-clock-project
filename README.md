@@ -1,7 +1,7 @@
 # js-clock-project
 
 ## Purpose
-this is a clock project built with JS HTML and CSS
+A clock built with JavaScript.
 
 ## Built With
 * HTML
