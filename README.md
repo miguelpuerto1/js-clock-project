@@ -1,11 +1,15 @@
 # js-clock-project
+
+## Purpose
 this is a clock project built with JS HTML and CSS
 
-# Features
-- keeps track of the current time in eastern time zone
+## Built With
+* HTML
+* CSS
+* JavaScript
 
-# Set Up Instructions
-- No set up required
+## Website
+https://lambent-naiad-34e6c6.netlify.app
 
-# Notes 
-- this was a fun little side project 
+## Contribution
+Made with ❤️ by Miguel Puerto
